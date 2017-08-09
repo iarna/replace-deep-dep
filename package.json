@@ -1,6 +1,6 @@
 {
   "name": "replace-deep-dep",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "replace-deep-dep.js",
   "bin": {
     "replace-deep-dep": "replace-deep-dep.js"
