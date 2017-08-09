@@ -1,0 +1,23 @@
+{
+  "name": "replace-deep-dep",
+  "version": "1.0.0",
+  "main": "replace-deep-dep.js",
+  "bin": {
+    "replace-deep-dep": "replace-deep-dep.js"
+  },
+  "author": "Rebecca Turner <me@re-becca.org> (http://re-becca.org/)",
+  "license": "ISC",
+  "dependencies": {
+    "@iarna/cli": "^1.1.0",
+    "detect-indent": "^5.0.0"
+  },
+  "description": "Change a transitive dependency version without updating the things requiring it.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iarna/replace-deep-dep.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iarna/replace-deep-dep/issues"
+  },
+  "homepage": "https://github.com/iarna/replace-deep-dep#readme"
+}
