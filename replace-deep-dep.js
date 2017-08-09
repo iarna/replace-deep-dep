@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 'use strict'
 require('@iarna/cli')(main)
   .usage('replace-deep-dep <depname> <oldVersion> <newVersion>')
